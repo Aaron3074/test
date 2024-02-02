@@ -1,0 +1,2 @@
+base_joy_controller_pkg
+-DCATKIN_DEVEL_PREFIX=/home/aaron3074/yo_pussy/devel -DCMAKE_INSTALL_PREFIX=/home/aaron3074/yo_pussy/install -G Unix Makefiles
